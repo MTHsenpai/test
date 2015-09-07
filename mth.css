@@ -636,7 +636,7 @@
 }
 /*#####[HOST]#####*/
 .icon-chat-host {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_host.png);
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-host + span,
@@ -650,7 +650,7 @@
 }
 /*#####[CO-HOSTS]#####*/
 .icon-chat-cohost {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_cohost.png);
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-cohost + span,
@@ -659,7 +659,7 @@
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_manager.png);
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-manager + span,
@@ -672,7 +672,7 @@
 }
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_bouncer.png);
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png);
 	background-position: 1px 0 !important;
 }
 .icon-chat-bouncer + span,
@@ -685,7 +685,7 @@
 }
 /*#####[DJ]#####*/
 .icon-chat-dj {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_dj.png);
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
 	background-position: 0 0 !important;
 }
 #user-lists .group.dj {
@@ -918,15 +918,6 @@
 	color: hsl(15,80%,50%);
 }
 [data-cid^="5984511-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://i.imgur.com/Ev3eqYz.gif);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto
-}
-[data-cid^="5081120-"] .msg .from .un {
     position: relative;
     left:-5px;
     padding-left:21px;
