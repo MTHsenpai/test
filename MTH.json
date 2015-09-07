@@ -5,7 +5,7 @@
         "chat": {
             "ambassador": "#84B423",
              "bouncer": "#FACC2E",
-             "cohost": "#FFA500",
+             "cohost": "#FF3300",
              "residentdj": "#04B404",
              "manager": "#0174DF",
              "host": "#FF3300",
@@ -101,7 +101,7 @@
         "booth": "",
         "icons": {
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
-             "cohost": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Orange-icon.png",
+             "cohost": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
              "host": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
              "manager": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png",
              "residentdj": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png"
