@@ -69,6 +69,9 @@
             ".cm[data-cid^=\"4837788\"] .bdg": {
                 "background": "url('http://i.imgur.com/kHWlpL9.png') !important"
             },
+            ".cm[data-cid^=\"3628770\"] .bdg": {
+                "background": "url('http://i.imgur.com/9xIv2FU.gif') !important"
+            },
             ".cm[data-cid^=\"5984511\"]": {
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
             },
