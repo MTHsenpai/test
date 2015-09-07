@@ -1,0 +1,121 @@
+{
+    "author": "King Chase",
+    "colors": {
+        "background": "",
+        "chat": {
+            "ambassador": "#84B423",
+             "bouncer": "#1394d6",
+             "cohost": "#FFFFFF",
+             "residentdj": "#F7A452",
+             "manager": "#e30000",
+             "host": "#FFFFFF",
+             "message": "#BCBBB6"
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "font": [
+        ],
+        "import": ["https://gist.githubusercontent.com/hbrnet/3682338e5a8b8afb6363/raw/caaeef0460fee9cbcddb7c45f9b55704cbed2dbc/mth.css"],
+        "rule": {
+            "#chat .mention": {
+                "border": "1px solid #ac76ff",
+                "border-left": "0px !important",
+                "border-right": "0px !important",
+                "border-collapse": "collapse !important"
+            },
+            "#chat .mention.is-staff": {
+            },
+            "#chat .welcome": {               
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)",
+                "border": "1px solid #009cdd",
+                "border-left": "0px !important",
+                "border-right": "0px !important",
+                "font-weight": "bold !important"
+            },
+            "#room-name": {
+		  "color":"#FF3300",
+		  "font-weight":"900"
+		  },
+		  "#room-host": {
+		  "color":"#00CCFF",
+		  "font-weight":"bold"
+		  },
+		  
+		  "#now-playing-media": {
+		  "color":"#FFFFFF",
+		  "font-weight":"900"
+		  },
+		  "#now-playing-dj": {
+		  "color":"#FFFFFF",
+		  "font-weight":"bold"
+		  },
+		  
+		  "#now-playing-time": {
+		  "color":"#FFFFFF",
+		  "font-weight":"bold"
+		  },
+		  "#volume": {
+		  "color":"#FFFFFF",
+		  "font-weight":"bold"
+		  },
+            ".cm[data-cid^=\"3741010\"] .bdg": { 
+                "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
+            },
+            ".cm[data-cid^=\"5118544\"] .bdg": {
+                "background": "url('http://i.imgur.com/gVsQgrh.gif') !important"
+            },
+            ".cm[data-cid^=\"3453569\"] .bdg": {
+                "background": "url('http://i.imgur.com/tmL4wKf.png') !important"
+            },
+            ".cm[data-cid^=\"4778795\"] .bdg": {
+                "background": "url('http://i.imgur.com/Z4KGhdW.gif') !important"
+            },
+            ".cm[data-cid^=\"4537457\"] .bdg": {
+                "background": "url('http://i.imgur.com/ZzAEPGo.jpg') !important"
+            },
+            ".cm[data-cid^=\"5018901\"] .bdg": {
+                "background": "url('http://i.imgur.com/I21blt2.gif') !important"
+            },
+            ".cm[data-cid^=\"3741010\"]": {
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
+            },
+            ".cm[data-cid^=\"3741010\"]:nth-child(2n+1)": {
+                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
+            },
+             ".cm.moderation": {
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
+            },
+            ".cm.moderation": {
+                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
+            },
+
+            "#chat .nxnotif": {
+                "border": "0 !important"
+            }
+        }
+    },
+    "images": {
+        "background": "",
+        "booth": "",
+        "icons": {
+            "bouncer": "http://i.imgur.com/Axqvila.png",
+             "cohost": "http://i.imgur.com/H8QzwCa.png",
+             "host": "http://i.imgur.com/H8QzwCa.png",
+             "manager": "http://i.imgur.com/ZkkSJxs.png",
+             "residentdj": "http://i.imgur.com/YPEJMkf.png"
+        },
+        "playback-container": ""
+    },
+    "rules": {
+        "allowAutorespond": false,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": true
+    }
+}
