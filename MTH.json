@@ -66,13 +66,13 @@
             ".cm[data-cid^=\"5984511\"] .bdg": {
                 "background": "url('http://i.imgur.com/0x9V9Sy.png') !important"
             },
-            ".cm[data-cid^=\"3453569\"] .bdg": {
-                "background": "url('http://i.imgur.com/tmL4wKf.png') !important"
+            ".cm[data-cid^=\"4837788\"] .bdg": {
+                "background": "url('http://i.imgur.com/kHWlpL9.png') !important"
             },
             ".cm[data-cid^=\"5984511\"]": {
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
             },
-            ".cm[data-cid^=\"5081120\"]:nth-child(2n+1)": {
+            ".cm[data-cid^=\"5984511\"]:nth-child(2n+1)": {
                 "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
             },
              ".cm.moderation": {
