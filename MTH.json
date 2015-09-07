@@ -36,10 +36,10 @@
             },
             "#room-name": {
 		  "color":"#84B423",
-		  "font-weight":"900"
+		  "font-weight":"bold"
 		  },
 		  "#room-host": {
-		  "color":"#00CCFF",
+		  "color":"#84B423",
 		  "font-weight":"bold"
 		  },
 		  
