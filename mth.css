@@ -679,10 +679,10 @@
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #F45 !important;
+	color: #FACC2E !important;
 }
 #user-lists .group.bouncer {
-	color: #F45;
+	color: #FACC2E;
 	background: linear-gradient(to right, hsla(10,100%,30%,0.5), hsla(10,100%,40%,0.5)) !important;
 }
 /*#####[DJ]#####*/
