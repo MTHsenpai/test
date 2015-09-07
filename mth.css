@@ -669,8 +669,8 @@
 }
 #user-lists .group.manager {
 	color: #0174DF;
-	background: linear-gradient(to right, hsla(0,100%,20%,0.5), hsla(0,100%,30%,0.5)) !important;
-}/*#####[BOUNCER]#####*/
+}
+/*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
 	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_bouncer.png);
 	background-position: 1px 0 !important;
@@ -682,7 +682,6 @@
 }
 #user-lists .group.bouncer {
 	color: #FACC2E;
-	background: linear-gradient(to right, hsla(10,100%,30%,0.5), hsla(10,100%,40%,0.5)) !important;
 }
 /*#####[DJ]#####*/
 .icon-chat-dj {
@@ -691,7 +690,6 @@
 }
 #user-lists .group.dj {
 	color: #04B404;
-	background: linear-gradient(to right, hsla(20,100%,30%,0.5), hsla(30,100%,40%,0.5)) !important;
 }
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
