@@ -101,10 +101,10 @@
         "booth": "",
         "icons": {
             "bouncer": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Yellow-icon.png",
-             "cohost": "http://i.imgur.com/H8QzwCa.png",
-             "host": "http://i.imgur.com/H8QzwCa.png",
-             "manager": "http://i.imgur.com/ZkkSJxs.png",
-             "residentdj": "http://icons.iconarchive.com/icons/musett/dragon-ballz/16/Dragon-Ball-icon.png"
+             "cohost": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Red-icon.png",
+             "host": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Red-icon.png",
+             "manager": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Blue-icon.png",
+             "residentdj": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Green-icon.png"
         },
         "playback-container": ""
     },
