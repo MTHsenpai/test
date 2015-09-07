@@ -100,11 +100,11 @@
         "background": "",
         "booth": "",
         "icons": {
-            "bouncer": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/16/Luma-Yellow-icon.png",
-             "cohost": "http://icons.iconarchive.com/icons/hopstarter/halloween-avatars/16/Red-Skull-icon.png",
-             "host": "http://icons.iconarchive.com/icons/hopstarter/halloween-avatars/16/Red-Skull-icon.png",
-             "manager": "http://icons.iconarchive.com/icons/hopstarter/halloween-avatars/16/Zombie-icon.png",
-             "residentdj": "http://icons.iconarchive.com/icons/hopstarter/halloween-avatars/16/Mike-icon.png"
+            "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
+             "cohost": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
+             "host": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
+             "manager": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png",
+             "residentdj": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png"
         },
         "playback-container": ""
     },
