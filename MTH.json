@@ -1,5 +1,4 @@
 {
-    "author": "King Chase",
     "colors": {
         "background": "",
         "chat": {
@@ -60,18 +59,7 @@
 		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
-            ".cm.moderation": {
-                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
-            },
-            ".cm.moderation": {
-                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
-            },
-
-            "#chat .nxnotif": {
-                "border": "0 !important"
-            }
-        }
-    },
+		  
     "images": {
         "background": "",
         "booth": "",
