@@ -642,10 +642,10 @@
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #5BF !important;
+	color: #04B404 !important;
 }
 #user-lists .group.host {
-	color: #5BF;
+	color: #04B404;
 	background: linear-gradient(to right, hsla(210,100%,30%,0.5), hsla(210,100%,40%,0.5)) !important;
 	top: 1px;
 }
@@ -656,7 +656,7 @@
 }
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
-	color: #58f !important;
+	color: #04B404 !important;
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
@@ -666,10 +666,10 @@
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #E15 !important;
+	color: #0174DF !important;
 }
 #user-lists .group.manager {
-	color: #E15;
+	color: #0174DF;
 	background: linear-gradient(to right, hsla(0,100%,20%,0.5), hsla(0,100%,30%,0.5)) !important;
 }/*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
@@ -691,13 +691,13 @@
 	background-position: 0 0 !important;
 }
 #user-lists .group.dj {
-	color: #F95;
+	color: #FF8000;
 	background: linear-gradient(to right, hsla(20,100%,30%,0.5), hsla(30,100%,40%,0.5)) !important;
 }
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
 #dialog-user-role .role-menu .menu ul .dj span {
-	color: #F95 !important;
+	color: #FF8000 !important;
 }
 /*#####[SUBS]#####*/
 .icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
