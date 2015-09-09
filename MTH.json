@@ -57,7 +57,7 @@
 		  "font-weight":"bold"
 		  },
 		  "#volume": {
-		  "color":"#FFFFFF",
+		  "color":"#FACC2E",
 		  "font-weight":"bold"
 		  },
             ".cm[data-cid^=\"5081120\"] .bdg": { 
