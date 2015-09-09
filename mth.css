@@ -926,3 +926,12 @@
     background-position: 2px center;
     background-size: 15px auto
 }
+[data-cid^="5081120-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://i.imgur.com/mMir0Pd.gif);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto
+}
