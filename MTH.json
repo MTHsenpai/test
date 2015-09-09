@@ -44,7 +44,7 @@
 		  },
 		  
 		  "#now-playing-media": {
-		  "color":"#FFFFFF",
+		  "color":"#0080FF",
 		  "font-weight":"900"
 		  },
 		  "#now-playing-dj": {
@@ -53,7 +53,7 @@
 		  },
 		  
 		  "#now-playing-time": {
-		  "color":"#FFFFFF",
+		  "color":"#0080FF",
 		  "font-weight":"bold"
 		  },
 		  "#volume": {
