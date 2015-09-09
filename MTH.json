@@ -35,25 +35,25 @@
                 "font-weight": "bold !important"
             },
             "#room-name": {
-		  "color":"#0080FF",
+		  "color":"#04B404",
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
-		  "color":"#ffffff",
+		  "color":"#0080FF",
 		  "font-weight":"bold"
 		  },
 		  
 		  "#now-playing-media": {
-		  "color":"#0080FF",
+		  "color":"#04B404",
 		  "font-weight":"900"
 		  },
 		  "#now-playing-dj": {
-		  "color":"#FFFFFF",
+		  "color":"#0080FF",
 		  "font-weight":"bold"
 		  },
 		  
 		  "#now-playing-time": {
-		  "color":"#0080FF",
+		  "color":"#FFA500",
 		  "font-weight":"bold"
 		  },
 		  "#volume": {
