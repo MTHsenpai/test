@@ -35,7 +35,7 @@
                 "font-weight": "bold !important"
             },
             "#room-name": {
-		  "color":"#04B404",
+		  "color":"#ffffff",
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
@@ -44,7 +44,7 @@
 		  },
 		  
 		  "#now-playing-media": {
-		  "color":"#04B404",
+		  "color":"#ffffff",
 		  "font-weight":"900"
 		  },
 		  "#now-playing-dj": {
