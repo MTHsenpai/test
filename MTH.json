@@ -1,7 +1,7 @@
 {
     "author": "mth",
     "colors": {
-        "background": "",
+        "background": "http://i.imgur.com/sk8s3Sb.jpg",
         "chat": {
             "ambassador": "#84B423",
              "bouncer": "#FACC2E",
@@ -115,7 +115,7 @@
         }
     },
     "images": {
-        "background": "",
+        "background": "http://i.imgur.com/sk8s3Sb.jpg",
         "booth": "",
         "icons": {
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
