@@ -1,7 +1,7 @@
 {
     "author": "mth",
     "colors": {
-        "background": "https://i.imgur.com/DKAqiOt.jpg",
+        "background": "http://i.imgur.com/1aw3xcd.png",
         "chat": {
             "ambassador": "#84B423",
              "bouncer": "#FACC2E",
@@ -62,6 +62,9 @@
 		  },
             ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
+            },
+	    ".cm[data-cid^=\"4409204\"] .bdg": { 
+                "background": "url('http://i.imgur.com/UTH7WNe.gif') !important"
             },
             ".cm[data-cid^=\"5984511\"] .bdg": {
                 "background": "url('http://i.imgur.com/kxrAOB4.gif') !important"
@@ -130,7 +133,7 @@
         }
     },
     "images": {
-        "background": "https://i.imgur.com/DKAqiOt.jpg",
+        "background": "http://i.imgur.com/1aw3xcd.png",
         "booth": "",
         "icons": {
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
