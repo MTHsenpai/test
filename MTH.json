@@ -44,12 +44,7 @@
 		  "font-weight":"bold"
 		  },
 		   
-                   "#icon-chat": {
-		   "color":"#FFA500",
-		  "font-weight":"bold"
-		  },
-
-
+                   
                   "#users-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
