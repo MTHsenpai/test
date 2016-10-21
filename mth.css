@@ -620,7 +620,7 @@
        
 }
 #chat .cm.message:nth-child(2n+1) {
-	background: hsla(220,10%,5%,0.8);
+	background: hsla(220,10%,5%,0.1);
 	box-shadow: inset 1px 1px 1px 0 hsla(220,10%,0%,0.1);
 }
 #chat .cm .badge-box {
