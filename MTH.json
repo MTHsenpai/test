@@ -44,8 +44,7 @@
 		  },
 		   
                    "#friends-button": {
-		  "icon icon-users-yellow"
-                   "color":"#FFA500",
+		   "color":"#FFA500",
 		  "font-weight":"bold"
 		  },
 
