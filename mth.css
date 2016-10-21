@@ -562,15 +562,15 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: hsla(210,10%,10%,0.5) !important;
+	background: hsla(210,10%,10%,0) !important;
 }
 #chat-header {
-	background: rgba(30,35,40,0.7);
+	background: rgba(30,35,40,0);
 	border: none !important;
 }
 #chat-messages {
 	border-color: #555;
-	box-shadow: 0 51px 0 rgba(30,35,40,0.7);
+	box-shadow: 0 51px 0 rgba(30,35,40,0);
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
