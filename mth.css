@@ -562,7 +562,7 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: hsla(210,10%,10%,0.5) !important;
+	background: hsla(210,10%,10%,0.1) !important;
 }
 #chat-header {
 	background: rgba(30,35,40,0.7);
@@ -603,10 +603,8 @@
 	background: linear-gradient(to top, hsl(220,100%,30%), hsl(220,100%,20%)) !important;
 }
 #chat-input-field {
-	color: #302281 !important;
+	color: #888 !important;
 	font-weight: bold;
-        opacity: 0.1;
-        filter: Alpha(opacity=50); 
 
 }
 #chat-input.focused #chat-input-field{
@@ -929,5 +927,4 @@
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 15px auto
-}
 }
