@@ -65,7 +65,16 @@
             },
 	    ".cm[data-cid^=\"4409204\"] .bdg": { 
                 "background": "url('http://i.imgur.com/UTH7WNe.gif') !important"
-             },
+           },
+	    ".cm[data-cid^=\"3709014\"] .bdg": { 
+                "background": "url('http://i.imgur.com/7fSUCEv.gif') !important"  
+            },
+	    ".cm[data-cid^=\"4130632\"] .bdg": { 
+                "background": "url('http://i.imgur.com/HFGJEvV.gif') !important"  
+
+           
+
+           },
 	    ".cm[data-cid^=\"12820836\"] .bdg": { 
                 "background": "url('http://i.imgur.com/K9nZ9hu.gif') !important"
 
