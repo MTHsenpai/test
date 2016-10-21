@@ -38,12 +38,13 @@
 		  "color":"#ffffff",
 		  "font-weight":"900"
 		  },
-		  "#room-host": {
+		 
+                   "#room-host": {
 		  "color":"#FF3300",
 		  "font-weight":"bold"
 		  },
 		   
-                   "#friends-button": {
+                   "#icon-chat": {
 		   "color":"#FFA500",
 		  "font-weight":"bold"
 		  },
