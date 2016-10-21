@@ -563,15 +563,13 @@
 /*########## [chat] ##########*/
 .app-right {
 	background: hsla(210,10%,10%,0.5) !important;
-        opacity: 0.1;
-    filter: Alpha(opacity=50);
+        
        
 }
 #chat-header {
 	background: rgba(30,35,40,0.7);
 	border: none !important;
-        opacity: 0.1;
-    filter: Alpha(opacity=50);
+        
 }
 #chat-messages {
 	border-color: #555;
@@ -623,7 +621,7 @@
 }
 #chat .cm.message:nth-child(2n+1) {
 	background: hsla(220,10%,5%,0.8);
-	box-shadow: inset 1px 1px 1px 0 hsla(220,10%,0%,0.8);
+	box-shadow: inset 1px 1px 1px 0 hsla(220,10%,0%,0.1);
 }
 #chat .cm .badge-box {
 	background: rgba(0,0,0,0) !important;
