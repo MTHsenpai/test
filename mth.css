@@ -201,7 +201,7 @@
 	background: transparent;
 }
 .dropdown dd, #chat-suggestion, #dialog-user-role .role-menu .menu ul li {
-	background: hsla(210,10%,10%,0.1);
+	background: hsla(210,10%,10%,0.8);
 }
 #dialog-user-role .role-menu .menu ul li {
 	border-color: hsla(210,10%,8%,0.8);
@@ -563,6 +563,7 @@
 /*########## [chat] ##########*/
 .app-right {
 	background: hsla(210,10%,10%,0.5) !important;
+        opacity: 0.1;
 }
 #chat-header {
 	background: rgba(30,35,40,0.7);
