@@ -43,6 +43,13 @@
 		  "font-weight":"bold"
 		  },
 		   
+                   "#friends-button": {
+		  "icon icon-users-yellow"
+                   "color":"#FFA500",
+		  "font-weight":"bold"
+		  },
+
+
                   "#users-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
