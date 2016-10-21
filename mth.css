@@ -603,7 +603,7 @@
 	background: linear-gradient(to top, hsl(220,100%,30%), hsl(220,100%,20%)) !important;
 }
 #chat-input-field {
-	color: #888 !important;
+	color: #302281 !important;
 	font-weight: bold;
         opacity: 0.1;
         filter: Alpha(opacity=50); 
