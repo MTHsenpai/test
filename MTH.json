@@ -48,7 +48,7 @@
 		  "font-weight":"bold"
 		  },
 
-                  "#chat-button": {
+                  "#waitlist-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
 		  },
