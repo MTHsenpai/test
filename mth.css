@@ -605,6 +605,9 @@
 #chat-input-field {
 	color: #888 !important;
 	font-weight: bold;
+        opacity: 0.1;
+        filter: Alpha(opacity=50); 
+
 }
 #chat-input.focused #chat-input-field{
 	color: #EEE !important;
@@ -613,9 +616,7 @@
 #chat .cm {
 	background: hsla(220,10%,10%,0.8);
 	box-shadow: inset 1px 1px 1px 0 hsla(220,10%,20%,0.8);
-        background-color: #55206B;
-    opacity: 0.1;
-    filter: Alpha(opacity=50); 
+       
 }
 #chat .cm.message:nth-child(2n+1) {
 	background: hsla(220,10%,5%,0.8);
