@@ -43,8 +43,7 @@
 		  "color":"#FF3300",
 		  "font-weight":"bold"
 		  },
-		   
-                   
+	 
                   "#users-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
@@ -59,7 +58,8 @@
 		  "color":"#ffffff",
 		  "font-weight":"900"
 		  },
-		  "#now-playing-dj": {
+		 
+                  "#now-playing-dj": {
 		  "color":"#0080FF",
 		  "font-weight":"bold"
 		  },
@@ -68,11 +68,13 @@
 		  "color":"#FFA500",
 		  "font-weight":"bold"
 		  },
-		  "#volume": {
+		 
+                  "#volume": {
 		  "color":"#FACC2E",
 		  "font-weight":"bold"
 		  },
-            ".cm[data-cid^=\"5081120\"] .bdg": { 
+           
+             ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
             },
 	    ".cm[data-cid^=\"4409204\"] .bdg": { 
