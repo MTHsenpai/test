@@ -534,7 +534,7 @@
 }
 .playlist-media-item:nth-child(2n+1) {
 	color: #AAA;
-	background: hsla(219,15%,15%,0);
+	background: hsla(219,15%,15%,0,1);
 }
 #media-panel .media-list .playlist-media-first-item .actions,
 #media-panel .media-list .playlist-media-last-item .actions,
