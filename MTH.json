@@ -42,9 +42,8 @@
                    "#room-host": {
 		  "color":"#FF3300",
 		  "font-weight":"bold"
-		  },
+		   },
 
-	 
                   "#users-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
