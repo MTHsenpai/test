@@ -608,6 +608,7 @@
 #chat-input-field {
 	color: #888 !important;
 	font-weight: bold;
+        Background: transparent;
 
 }
 #chat-input.focused #chat-input-field{
