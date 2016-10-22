@@ -97,7 +97,7 @@
 	background: hsla(200,100%,40%,0)!important;
 }
 #footer #your-next-media.in-history {
-	color: hsla(10,80%,55%,0);
+	color: hsla(10,80%,55%,0.8);
         background: transparent;
 
 }
