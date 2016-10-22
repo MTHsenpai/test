@@ -579,7 +579,7 @@
 }
 #chat-messages {
 	border-color: #555;
-	box-shadow: 0 51px 0 rgba(30,35,40,0.1);
+	box-shadow: 0 0px 0 rgba(30,35,40,0.1);
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
