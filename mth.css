@@ -562,7 +562,7 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: hsla(210,10%,10%,0.5) !important;
+	background: transparent !important;
         
        
 }
