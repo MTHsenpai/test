@@ -619,7 +619,7 @@
 /*### [message] ###*/
 #chat .cm {
 	background: transparent;
-	
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.1)
        
 }
 #chat .cm.message:nth-child(2n+1) {
