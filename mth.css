@@ -94,10 +94,10 @@
 }
 
 #footer .chevron:before, #footer .chevron:after {
-	background: hsla(0,0,0,0)!important;
+	background: none!important;
 }
 #footer #your-next-media.in-history {
-	color: hsla(10,80%,55%,0.1);
+	color: hsla(10,80%,55%,0.7);
        
 
 }
