@@ -10,7 +10,9 @@
 	background: linear-gradient(to right, hsl(120,100%,50%), hsl(0,100%,50%)) !important;
 }
 #user-settings .slider .bar {
-	width: calc(50% - 1px) !important;
+	width: calc(100% - 1px) !important;
+         opacity: 0.5;
+
 }
 .slider .circle, #user-settings .slider .circle {
 	background: #fff !important;	
