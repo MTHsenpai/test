@@ -569,13 +569,13 @@
        
 }
 #chat-header {
-	background: rgba(30,35,40,0.7);
+	background: rgba(30,35,40,0.1);
 	border: none !important;
         
 }
 #chat-messages {
 	border-color: #555;
-	box-shadow: 0 51px 0 rgba(30,35,40,0.7);
+	box-shadow: 0 51px 0 rgba(30,35,40,0.1);
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
@@ -619,12 +619,12 @@
 /*### [message] ###*/
 #chat .cm {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0)
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.7)
        
 }
 #chat .cm.message:nth-child(2n+1) {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0);
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0.7);
 }
 #chat .cm .badge-box {
 	background: rgba(0,0,0,0) !important;
