@@ -617,7 +617,7 @@
 	color: #888 !important;
 	font-weight: bold;
         Background: transparent;
-
+        font-family: Bodini;
 }
 #chat-input.focused #chat-input-field{
 	color: #EEE !important;
