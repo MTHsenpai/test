@@ -94,7 +94,7 @@
 }
 
 #footer .chevron:before, #footer .chevron:after {
-	background: hsla(200,100%,40%,0)!important;
+	background: hsla(0,0,0,0)!important;
 }
 #footer #your-next-media.in-history {
 	color: hsla(10,80%,55%,0.1);
@@ -625,12 +625,12 @@
 /*### [message] ###*/
 #chat .cm {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0)
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.7)
        
 }
 #chat .cm.message:nth-child(2n+1) {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0);
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0.7);
 }
 #chat .cm .badge-box {
 	background: rgba(0,0,0,0) !important;
