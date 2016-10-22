@@ -44,7 +44,7 @@
 		  "font-weight":"bold"
 		  },
 
-                  "#chat-button > header-panel-button": {
+                  "#chat-button": {
                    "color":"#FFA500"
 		  },
 	 
