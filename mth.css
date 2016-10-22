@@ -98,7 +98,7 @@
 }
 #footer #your-next-media.in-history {
 	color: hsla(10,80%,55%,0);
-        opacity: 0.1;
+        background: transparent;
 
 }
 #footer .back {
