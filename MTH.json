@@ -34,7 +34,7 @@
                 "border-right": "0px !important",
                 "font-weight": "bold !important"
             },
-            "#room-name": {
+                  "#room-name": {
 		  "color":"#ffffff",
 		  "font-weight":"900"
 		  },
@@ -43,6 +43,9 @@
 		  "color":"#FF3300",
 		  "font-weight":"bold"
 		  },
+
+                  "#chat-button.header-panel-button.selected": {
+                   "color":"#FFA500"
 	 
                   "#users-button": {
 		  "color":"#FFA500",
