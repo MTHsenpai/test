@@ -77,9 +77,8 @@
 .app-header, #app-menu.in-room, #footer, #search {
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
 }
-.app-header {
-	box-shadow: 0px 0px 0px #000;
-}
+	
+
 .app-header #history-button {
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
         opacity: 0.1;
@@ -534,7 +533,7 @@
 }
 .playlist-media-item:nth-child(2n+1) {
 	color: #AAA;
-	background: hsla(0,15%,15%,0);
+	background: hsla(219,15%,15%,0);
 }
 #media-panel .media-list .playlist-media-first-item .actions,
 #media-panel .media-list .playlist-media-last-item .actions,
