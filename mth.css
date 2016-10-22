@@ -94,13 +94,13 @@
 }
 
 #footer .chevron:before, #footer .chevron:after {
-	background: hsl(200,100%,40%)!important;
+	background: hsla(200,100%,40%,0)!important;
 }
 #footer #your-next-media.in-history {
-	color: hsl(10,80%,55%);
+	color: hsla(10,80%,55%,0);
 }
 #footer .back {
-	background: linear-gradient(hsl(210,10%,30%), hsl(210,10%,20%)) !important;
+	background: linear-gradient(hsla(210,10%,30%,0), hsla(210,10%,20%,0)) !important;
 }
 #footer-user .buttons .button:hover, #footer .back:hover {
 	background: radial-gradient(hsl(200,100%,60%), hsl(200,100%,30%)) !important;
