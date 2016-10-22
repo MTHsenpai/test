@@ -98,6 +98,8 @@
 }
 #footer #your-next-media.in-history {
 	color: hsla(10,80%,55%,0);
+        opacity: 0.1;
+
 }
 #footer .back {
 	background: linear-gradient(hsla(210,10%,30%,0), hsla(210,10%,20%,0)) !important;
