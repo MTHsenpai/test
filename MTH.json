@@ -44,9 +44,6 @@
 		  "font-weight":"bold"
 		  },
 
-                  "#friends-button": {
-                   "color":"#FFA500"
-		  },
 	 
                   "#users-button": {
 		  "color":"#FFA500",
