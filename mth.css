@@ -529,7 +529,7 @@
 }
 #media-panel .media-list .playlist-media-item.in-history, #media-panel .media-list .playlist-media-last-item.in-history,  {
 	color: hsl(20,80%,55%);
-	box-shadow: inset 0 0 1px 1px hsla(30,100%,30%,0.5);
+	box-shadow: inset 0 0 1px 1px hsla(30,100%,30%,0.1);
 	border-radius: 7px;
 }
 .playlist-media-item:nth-child(2n+1) {
