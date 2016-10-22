@@ -1,6 +1,8 @@
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
+        opacity: 0.1;  
+
 }
 #search-menu .menu ul  i, #search-menu-icon {
 	/*Adblock fix*/
@@ -11,8 +13,7 @@
 }
 #user-settings .slider .bar {
 	width: calc(100% - 1px) !important;
-         opacity: 0.5;
-
+        
 }
 .slider .circle, #user-settings .slider .circle {
 	background: #fff !important;	
