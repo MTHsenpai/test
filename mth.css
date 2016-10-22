@@ -86,9 +86,8 @@
 }
 .app-header #header-panel-bar .selected, .app-header #history-button.selected {
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
-}
-#footer {
-	box-shadow: 0px 0px 0px #000;
+
+	
 }
 #footer .chevron:before, #footer .chevron:after {
 	background: hsl(200,100%,40%)!important;
