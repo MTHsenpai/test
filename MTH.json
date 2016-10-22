@@ -46,6 +46,7 @@
 
                   "#chat-button > header-panel-button": {
                    "color":"#FFA500"
+		  },
 	 
                   "#users-button": {
 		  "color":"#FFA500",
