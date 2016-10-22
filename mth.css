@@ -623,12 +623,12 @@
 /*### [message] ###*/
 #chat .cm {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.7)
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0)
        
 }
 #chat .cm.message:nth-child(2n+1) {
 	background: transparent;
-	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0.7);
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0);
 }
 #chat .cm .badge-box {
 	background: rgba(0,0,0,0) !important;
