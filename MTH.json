@@ -85,7 +85,10 @@
             },
 	    ".cm[data-cid^=\"4130632\"] .bdg": { 
                 "background": "url('http://i.imgur.com/HFGJEvV.gif') !important"  
-
+         
+             },
+	    ".cm[data-cid^=\"5109245\"] .bdg": { 
+                "background": "url('http://im2.ezgif.com/tmp/ezgif-1341345503.gif') !important"  
            
 
            },
