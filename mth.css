@@ -751,7 +751,7 @@
 	background: none !important;
 }
 #chat .log {
-	background: none !important;
+	background: transparent !important;
 }
 /*--[moderation]--*/
 #chat .cm.moderation {
