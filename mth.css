@@ -344,7 +344,7 @@
 /*--[dj-button]--*/
 #dj-button {
 	border-radius: 50px;
-	background: linear-gradient(hsla(220,100%,30%,0.3), hsla(220,100%,50%,0.3));
+	background: linear-gradient(hsla(220,100%,30%,0.1), hsla(220,100%,50%,0.1));
 	box-shadow: 0 0 10px #000;
 }
 #dj-button:hover {
@@ -360,7 +360,8 @@
 }
 /*--[vote]--*/
 #vote {
-	box-shadow: 0 0 10px #000;
+	background: linear-gradient(hsla(220,100%,30%,0.1), hsla(220,100%,50%,0.1));
+        box-shadow: 0 0 10px #000;
 	border-radius: 40px;
 	width: 255px !important;
 }
@@ -619,7 +620,7 @@
 	color: #888 !important;
 	font-weight: bold;
         Background: transparent;
-        font-family: Bernhard ModDT;
+        font-family: sans-serif;
 }
 #chat-input.focused #chat-input-field{
 	color: #EEE !important;
