@@ -891,8 +891,8 @@
 }
 /*--[Miscellanous]--*/
 #app-menu .button, #room .friends.has-requests .header {
-	background: linear-gradient(to right, hsl(215,100%,30%), hsl(215,100%,20%));
-	box-shadow: inset 0 0 40px 1px hsla(0,0%,0%,0.3);
+	background: transparent;
+	box-shadow: none;
 }
 #app-menu .button:hover, #room .friends.has-requests .header:hover {
 	background: linear-gradient(to right, hsl(210,100%,40%), hsl(210,100%,30%));
