@@ -751,7 +751,7 @@
 	background: none !important;
 }
 #chat .log {
-	background: hsla(220,30%,20%,0.1) !important;
+	background: none !important;
 }
 /*--[moderation]--*/
 #chat .cm.moderation {
