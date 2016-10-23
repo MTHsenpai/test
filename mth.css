@@ -66,6 +66,10 @@
 	border-color: hsl(210,100%,40%) !important;
 	border-radius: 0 0 4px 4px;
 }
+#no-dj {
+        background: transparent;
+
+}
 #playback .background {
 	visibility: hidden;
 }
