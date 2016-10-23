@@ -113,7 +113,7 @@
 }
 #footer-user .buttons .button.inventory:hover .thumb {
 	border-color: #5bf !important;
-	box-shadow: 0 0 7px #5bf !important;
+	box-shadow: none !important;
 }
 #footer-user .info {
 	background: linear-gradient(hsla(210,5%,10%,0.8), hsla(210,5%,5%,0.8));
