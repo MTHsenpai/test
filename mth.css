@@ -78,11 +78,12 @@
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
 }
 .app-header {
-	box-shadow: 0px 0px 1px #585858;
+	box-shadow: 0px 0px 1px #A4A4A4;
 }	
 
 .app-header #history-button {
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
+        box-shadow: none;
         
 
 }
@@ -90,7 +91,7 @@
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
 }
 #footer {
-	box-shadow: 0px 0px 1px #585858;
+	box-shadow: 0px 0px 1px #A4A4A4;
         background: rgba(40,44,53,0);
 
 }
