@@ -581,8 +581,14 @@
 #chat-header {
 	background: rgba(30,35,40,0);
 	border: none !important;
-        
+ 
+ }
+
+#chat-header .divider {
+              background: none;
+
 }
+
 #chat-messages {
 	border-color: transparent;
 	box-shadow: 0 0px 0 rgba(30,35,40,0.1);
