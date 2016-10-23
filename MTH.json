@@ -46,8 +46,8 @@
 
                   "#users-button": {
 		  "color":"#FFA500",
-		  "font-weight":"bold",
-                  "box-shadow: 0px 0px 1px #585858;
+		  "font-weight":"bold"
+                  
 		  },
 
                   "#waitlist-button": {
