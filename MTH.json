@@ -46,12 +46,12 @@
 		   },
 
                   "#users-button": {
-		  "color":"#FFA500",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
                   },
 
                   "#waitlist-button": {
-		  "color":"#FFA500",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 
