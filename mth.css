@@ -742,6 +742,7 @@
 #user-lists .group {
 	border: none !important;
 	box-shadow: 0 0 1px 1px;
+        background: rgba(0, 0, 0, 0.3);
 }
 #user-lists .user:hover {
 	background: linear-gradient(to right, hsla(200,100%,20%,0.5), hsla(200,100%,40%,0.5)) !important;
@@ -751,6 +752,7 @@
 }
 #user-lists .header {
 	height: 42px;
+        border-bottom: transparent;
 }
 #user-lists .list-header {
 	top: 44px;
