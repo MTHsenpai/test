@@ -47,8 +47,7 @@
                   "#users-button": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
-                  
-		  },
+                  },
 
                   "#waitlist-button": {
 		  "color":"#FFA500",
