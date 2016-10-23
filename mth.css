@@ -138,7 +138,8 @@
 	visibility: hidden;
 }
 #playlist-button {
-	background: linear-gradient(hsl(205,100%,50%), hsl(205,100%,40%));
+	background: transparent;
+        box-shadow: none;
 }
 #playlist-import, #playlist-create {
 	background: linear-gradient(135deg, hsl(205,10%,30%), hsl(205,10%,20%));
