@@ -352,16 +352,16 @@
 /*--[dj-button]--*/
 #dj-button {
 	border-radius: 50px;
-	background: linear-gradient(hsla(220,100%,30%,0.1), hsla(220,100%,50%,0.1));
-	box-shadow: 0 0 10px #000;
+	background: linear-gradient(hsla(220,100%,30%,0.1), hsla(220,100%,50%,0.2));
+	box-shadow: 0 0 2px #a4a4a4;
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
 }
 #dj-button .left {
 	border-radius: 50px 50px 50px 50px;
-	background: linear-gradient(135deg, hsla(190,100%,60%,0.6), hsla(205,100%,50%,0.6)) !important;
-	box-shadow: 0 0 10px #000;
+	background: linear-gradient(135deg, hsla(190,100%,60%,0), hsla(205,100%,50%,0.3)) !important;
+	box-shadow: 0 0 2px #a4a4a4;
 }
 #dj-button:hover .left {
 	background: linear-gradient(135deg, hsla(190,100%,60%,0.9), hsla(205,100%,50%,0.9)) !important;
@@ -386,7 +386,7 @@
 }
 #woot {
 	border-radius: 30px 0 0 30px;
-	background: linear-gradient(135deg, hsla(190,100%,60%,0), hsla(205,100%,50%,0.3)) !important;
+	background: linear-gradient(135deg, hsla(190,100%,90%,0), hsla(205,100%,40%,0.3)) !important;
 	box-shadow: inset 0 0 2px hsl(0,0%,50%) !important;
 	background: url('http://i.imgur.com/5eU6OHQ.png');
 }
@@ -395,7 +395,7 @@
 	box-shadow: inset 0 0 10px hsl(70,100%,40%) !important;
 }
 #grab {
-	background: linear-gradient(135deg, hsla(205,100%,60%,0.3), hsla(205,100%,60%,0.3)) !important;
+	background: linear-gradient(135deg, hsla(205,100%,40%,0.2), hsla(205,100%,40%,0.2)) !important;
 	box-shadow: inset 0 0 2px hsl(0,0%,50%) !important;
 	background: url('http://i.imgur.com/9DCOayJ.png');
 }
@@ -404,7 +404,7 @@
 	box-shadow: inset 0 0 10px hsl(280,100%,40%) !important;
 }
 #meh {
-	background: linear-gradient(135deg, hsla(205,100%,60%,0.3), hsla(190,100%,50%,0.1)) !important;
+	background: linear-gradient(135deg, hsla(205,100%,30%,0.3), hsla(190,100%,20%,0)) !important;
 	box-shadow: inset 0 0 2px hsl(0,0%,50%) !important;
 	border-radius: 0 30px 30px 0;
 	margin-right: 0 !important;
