@@ -587,7 +587,7 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: transparent !important;
+	background: rgba(0,0,0,0.1) !important;
         
        
 }
