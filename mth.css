@@ -350,12 +350,12 @@
 #toast-notifications .left {
 	border-radius: 20px 0 0 20px;
 	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
-        height: 85px;
+        
 }
 #toast-notifications .right {
 	border-radius: 0 20px 20px 0;
 	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
-        height: 85px;
+        
 }
 /*--[dj-button]--*/
 #dj-button {
