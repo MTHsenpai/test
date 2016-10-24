@@ -155,7 +155,7 @@
 }
 /*--[user-menu]--*/
 #user-menu, #room-settings-menu, #playlist-menu {
-	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,0.2));
+	background: rgba(0,0,0,0.6);
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
 	background: linear-gradient(hsla(210,10%,7%,0.1), hsla(210,10%,5%,0.1)) !important;
@@ -907,6 +907,14 @@
 	background: linear-gradient(to right, hsl(210,100%,7%), hsl(210,100%,10%)) !important;
 }
 /*--[Miscellanous]--*/
+#user-view .user-content {
+        background: rgba(0,0,0,0.6);
+
+}
+.media-list {
+        background: rgba(0,0,0,0.6);
+
+}
 #plugcubed {
         background: transparent;
         box-shadow: none;
