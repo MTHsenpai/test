@@ -583,7 +583,7 @@
 	border-radius: 7px;
 }
 #media-panel .media-list.playlist-media .meta {
-	border: none !important;
+	border-bottom: #282c35 1px solid !important;
 }
 /*########## [chat] ##########*/
 .app-right {
