@@ -594,9 +594,12 @@
 #chat-header {
 	background: rgba(30,35,40,0);
 	border: none !important;
- 
- }
+} 
+#chat-header, #user-list .header, #waitlist .header {
+          background-color: transparent;
+          border-bottom: transparent;
 
+}
 #chat-header .divider {
               background: none;
 
