@@ -80,6 +80,8 @@
 }
 .app-header, #app-menu.in-room, #search {
 	background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
+        border-right: transparent;
+        box-shadow: none;
 }
 .app-header {
 	box-shadow: 0px 0px 1px #A4A4A4;
@@ -896,6 +898,12 @@
 	background: linear-gradient(to right, hsl(210,100%,7%), hsl(210,100%,10%)) !important;
 }
 /*--[Miscellanous]--*/
+#plugcubed {
+        background: transparent;
+        box-shadow: none;
+        border-right: transparent;
+
+}
 #app-menu .button, #room .friends.has-requests .header {
 	background: transparent;
 	box-shadow: none;
