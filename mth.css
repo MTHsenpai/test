@@ -929,7 +929,7 @@
 	background: linear-gradient(to right, hsl(210,100%,40%), hsl(210,100%,30%));
 }
 #app-menu .list {
-	background: linear-gradient(hsl(220,10%,10%), hsl(220,10%,20%));
+	background: rgba(0,0,0,0.6);
 }
 #app-menu .list .item {
 	box-shadow: none;
