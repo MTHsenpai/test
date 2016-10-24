@@ -348,7 +348,8 @@
 	background: rgba(50,100,255,0.1);
 }
 #toast-notifications .left {
-	border-radius: 20px 0 0 20px;
+	height: 84px;
+        border-radius: 20px 0 0 20px;
 	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
         
 }
