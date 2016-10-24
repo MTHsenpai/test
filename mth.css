@@ -354,7 +354,7 @@
 }
 #toast-notifications .right {
 	border-radius: 0 20px 20px 0;
-	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
+	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
         height: 85px;
 }
 /*--[dj-button]--*/
