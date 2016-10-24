@@ -912,6 +912,11 @@
 	background: linear-gradient(to right, hsl(210,100%,7%), hsl(210,100%,10%)) !important;
 }
 /*--[Miscellanous]--*/
+
+#room-settings .general-settings {
+        background: rgba(0,0,0,0.6);
+
+}
 #media-panel .header {
         Background: rgba(0,0,0,0.6);
 
