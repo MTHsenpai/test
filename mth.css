@@ -913,6 +913,18 @@
 }
 /*--[Miscellanous]--*/
 
+.pop-menu .menu, .pop-menu ul {
+        background: rgba(0,0,0,0.3);
+
+}
+.pop-menu .bar {
+        background: rgba(0,0,0,0.3);
+
+}
+#user-friends .list .row {
+        background: rgba(0,0,0,0.2);
+
+}
 #user-store .badges .grid .cell .top {
         background: url(http://i.imgur.com/j7fnxpL.gif) no-repeat;
 
