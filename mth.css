@@ -345,7 +345,7 @@
 /*--[toast-notifications]--*/
 .notification {
 	border-radius: 20px;
-	background: rgba(50,100,255,0.7);
+	background: rgba(50,100,255,0.1);
 }
 #toast-notifications .left {
 	border-radius: 20px 0 0 20px;
