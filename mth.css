@@ -293,7 +293,7 @@
 }
 .user-content .avatars .cell:hover .top, .user-content .avatars .cell.selected .top {
 	background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%),
-	url(http://i.imgur.com/X3dKn08.png);
+	url(http://i.imgur.com/j7fnxpL.gif);
 }
 .user-content .badges .cell {
 	background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)) !important;
