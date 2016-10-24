@@ -913,6 +913,10 @@
 }
 /*--[Miscellanous]--*/
 
+#user-store .badges .grid .cell .top {
+        background: url(http://i.imgur.com/j7fnxpL.gif) no-repeat;
+
+}
 #waitlist .list .user {
         background: transparent;
 
