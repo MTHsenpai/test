@@ -913,6 +913,10 @@
 }
 /*--[Miscellanous]--*/
 
+#waitlist .list .user {
+        background: transparent;
+
+}
 #room-settings .general-settings {
         background: rgba(0,0,0,0.6);
 
