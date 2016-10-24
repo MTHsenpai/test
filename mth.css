@@ -587,8 +587,10 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: rgba(0,0,0,0.1) !important;
-        
+	background: rgba(0,0,0,0.3) !important;
+}
+.app-right .friends {
+        background: rgba(0,0,0,0.3);        
        
 }
 #chat-header {
