@@ -24,8 +24,15 @@
                 "border-left": "0px !important",
                 "border-right": "0px !important",
                 "border-collapse": "collapse !important"
-            },
-            "#chat .mention.is-staff": {
+               },
+             
+             "#user-menu .avatar": {
+                "box-shadow": "none",
+                "background": "url(http://i.imgur.com/FUT0KW0.gif) !important"  
+
+	     },
+             "#chat .mention.is-staff": {
+           
             },
             "#chat .welcome": {               
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)",
