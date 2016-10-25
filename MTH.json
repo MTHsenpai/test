@@ -36,7 +36,8 @@
                  "background": "rgba(0,0,0,0.3)"
 	     },
              ".pop-menu": {
-                 "background": "transparent"
+                 "background": "transparent",
+                 "border-radius": "30px"
 	     },
              ".pop-menu .bar": {
                  "background": "rgba(0,0,0,0.3)"
