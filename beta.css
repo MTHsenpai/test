@@ -270,7 +270,8 @@
 }
 #user-friends .row {
 	border-radius: 20px;
-	box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 0px #000;
+        background: rgba(0,0,0,0.6) !important;
 }
 #user-friends .row .positive {
 	border-radius: 0 20px;
