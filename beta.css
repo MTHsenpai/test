@@ -793,9 +793,9 @@
 }
 /*--[moderation]--*/
 #chat .cm.moderation {
-	background: linear-gradient(hsla(260,50%,25%,0.8), hsla(260,50%,15%,0.8)),
-	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,100%,0.2)) !important;
-	box-shadow: inset 0 0 0 1px hsl(260,50%,50%);
+	background: linear-gradient(hsla(260,50%,10%,0.3), hsla(260,50%,10%,0.3)),
+	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3)) !important;
+	box-shadow: inset 0 0 0 0px hsl(260,50%,50%);
 	border: none !important;
 }
 #chat .cm.moderation .timestamp {
