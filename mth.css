@@ -244,9 +244,9 @@
 	font-weight: bold;
 }
 .grid .cell {
-	border-radius: 30px;
+	border-radius: 100px;
 	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
-	box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 0px #000;
 }
 .grid .cell .bar, .grid .cell .meta, #user-friends .row {
 	background: linear-gradient(hsl(210,10%,15%), hsl(210,10%,10%)) !important;
