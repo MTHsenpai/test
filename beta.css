@@ -785,7 +785,7 @@
 	border-radius: 0;
 	box-shadow: none;
 	background: none !important;
-        border: none;
+        
 }
 #chat .log {
 	background: hsla(220,30%,20%,0) !important;
