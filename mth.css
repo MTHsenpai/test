@@ -244,7 +244,7 @@
 	font-weight: bold;
 }
 .grid .cell {
-	border-radius: 100px;
+	border-radius: 30px;
 	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
 	box-shadow: 0 0 0px #000;
 }
