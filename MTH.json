@@ -172,7 +172,7 @@
         }
     },
     "images": {
-        "background": "http://i.imgur.com/4WRuEcL.jpg",
+        "background": "https://api.plugcubed.net/proxy/http://wallup.net/wp-content/uploads/2016/05/25/320213-texture-carbon_fiber.jpg",
          "booth": "",
         "icons": {
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
