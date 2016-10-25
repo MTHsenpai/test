@@ -75,7 +75,7 @@
 }
 #user-menu .avatar {
 	background: linear-gradient(rgba(0,0,0,0)70%, hsla(140,50%,90%,0.4) 80%),
-	linear-gradient(hsl(200,70%,20%), hsl(140,70%,20%)), url(http://i.imgur.com/FUT0KW0.gif) !important;
+	linear-gradient(hsl(200,70%,20%), hsl(140,70%,20%)) !important;
 	box-shadow: inset 0 0 30px #000;
 }
 .app-header, #app-menu.in-room, #search {
@@ -249,7 +249,7 @@
 	box-shadow: 0 0 10px #000;
 }
 .grid .cell .bar, .grid .cell .meta, #user-friends .row {
-	background: rgba(0,0,0,0.3) !important;
+	background: linear-gradient(hsl(210,10%,15%), hsl(210,10%,10%)) !important;
 }
 .grid .cell .meta .host {
 	text-align: center;
@@ -271,6 +271,7 @@
 #user-friends .row {
 	border-radius: 20px;
 	box-shadow: 0 0 0px #000;
+        background: rgba(0,0,0,0.6) !important;
 }
 #user-friends .row .positive {
 	border-radius: 0 20px;
@@ -287,8 +288,7 @@
 	background: linear-gradient(hsla(20,90%,50%,0.8), hsla(20,90%,40%,0.8)) !important;
 }
 .user-content .avatars .grid .cell .top {
-	background: linear-gradient(rgba(0,0,0,0)70%, hsla(210,10%,80%,0.2) 80%),
-	url(http://i.imgur.com/j7fnxpL.gif);
+	background: linear-gradient(rgba(0,0,0,0)100%, hsla(210,10%,80%,0.2) 80%), url(http://i.imgur.com/j7fnxpL.gif);
 	box-shadow: inset 0 0 40px #000;
 }
 .user-content .avatars .cell:hover .top, .user-content .avatars .cell.selected .top {
@@ -296,18 +296,18 @@
 	url(http://i.imgur.com/j7fnxpL.gif);
 }
 .user-content .badges .cell {
-	background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)), url(http://i.imgur.com/j7fnxpL.gif) !important;
+	background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)) !important;
 	box-shadow: inset 0 0 30px #000;
 }
 .user-content .badges .cell:hover {
-	background: url(http://i.imgur.com/j7fnxpL.gif) 0 -12px no-repeat !important;
+	background: url("https://cdn.plug.dj/_/static/images/badgebghover.51d0ef82889130d4adaaaf067133dbb3fe025a1c.png") 0 -12px no-repeat !important;
 	box-shadow: 0 0 10px #000;
 }
 #user-store .badges .cell:hover {
-	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)), url(http://i.imgur.com/j7fnxpL.gif) !important;
+	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
 }
 .user-content .badges .cell.selected {
-	background: url(http://i.imgur.com/j7fnxpL.gif) !important;
+	background: url(https://cdn.plug.dj/_/static/images/badgebg.11c3e716ad95c5345d292b113a4d223bb2b70e80.png) !important;
 	box-shadow: inset 0 0 20px 2px hsla(0,0%,100%,0.2) !important;
 }
 .grid .cell .top .expires, .grid .cell .top .prices, #user-inventory .item, #the-user-profile .badge-box, #media-panel  {
@@ -786,15 +786,16 @@
 	border-radius: 0;
 	box-shadow: none;
 	background: none !important;
+        
 }
 #chat .log {
 	background: hsla(220,30%,20%,0) !important;
 }
 /*--[moderation]--*/
 #chat .cm.moderation {
-	background: linear-gradient(hsla(260,50%,25%,0.8), hsla(260,50%,15%,0.8)),
-	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,100%,0.2)) !important;
-	box-shadow: inset 0 0 0 1px hsl(260,50%,50%);
+	background: linear-gradient(hsla(260,50%,10%,0.3), hsla(260,50%,10%,0.3)),
+	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3)) !important;
+	box-shadow: inset 0 0 0 0px hsl(260,50%,50%);
 	border: none !important;
 }
 #chat .cm.moderation .timestamp {
@@ -859,9 +860,9 @@
 	color: hsl(40,100%,60%);
 }
 #chat .cm.mention {
-	background: linear-gradient(hsla(77,100%,20%,0.8), hsla(77,100%,11%,0.8)),
-	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,100%,0.2)) !important;
-	box-shadow: inset 0 0 0 1px hsl(77,100%,30%);
+	background: linear-gradient(hsla(77,100%,10%,0.3), hsla(77,100%,10%,0.3)),
+	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3)) !important;
+	box-shadow: inset 0 0 0 0px hsl(77,100%,30%);
 	border: none !important;
 }
 #chat .cm.mention .name, #chat .cm.mention .timestamp {
@@ -913,22 +914,6 @@
 }
 /*--[Miscellanous]--*/
 
-.pop-menu .menu, .pop-menu ul {
-        background: rgba(0,0,0,0.3);
-
-}
-.pop-menu .bar {
-        background: rgba(0,0,0,0.3);
-
-}
-#user-friends .list .row {
-        background: rgba(0,0,0,0.2);
-
-}
-#user-store .badges .grid .cell .top {
-        background: url(http://i.imgur.com/j7fnxpL.gif) no-repeat;
-
-}
 #waitlist .list .user {
         background: transparent;
 
@@ -942,7 +927,7 @@
 
 }
 #user-view .user-content {
-        background: rgba(0,0,0,0.8);
+        background: rgba(0,0,0,0.6);
 
 }
 .media-list {
@@ -1026,3 +1011,4 @@
     background-position: 2px center;
     background-size: 15px auto
 }
+
