@@ -28,7 +28,8 @@
              
              "#user-menu .avatar": {
                 "box-shadow": "none",
-                "background": "url(http://i.imgur.com/j7fnxpL.gif) !important"  
+                "background": "url(http://i.imgur.com/j7fnxpL.gif) !important",
+                "border-radius": "30px"  
 
 	     },
              "#chat .mention.is-staff": {
