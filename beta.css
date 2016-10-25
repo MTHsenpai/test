@@ -860,9 +860,9 @@
 	color: hsl(40,100%,60%);
 }
 #chat .cm.mention {
-	background: linear-gradient(hsla(77,100%,20%,0.8), hsla(77,100%,11%,0.8)),
-	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,100%,0.2)) !important;
-	box-shadow: inset 0 0 0 1px hsl(77,100%,30%);
+	background: linear-gradient(hsla(77,100%,10%,0.6), hsla(77,100%,10%,0.6)),
+	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.6)) !important;
+	box-shadow: inset 0 0 0 0px hsl(77,100%,30%);
 	border: none !important;
 }
 #chat .cm.mention .name, #chat .cm.mention .timestamp {
