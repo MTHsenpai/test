@@ -300,14 +300,14 @@
 	box-shadow: inset 0 0 30px #000;
 }
 .user-content .badges .cell:hover {
-	background: url("https://cdn.plug.dj/_/static/images/badgebghover.51d0ef82889130d4adaaaf067133dbb3fe025a1c.png") 0 -12px no-repeat !important;
+	background: url(http://i.imgur.com/j7fnxpL.gif) 0 -12px no-repeat !important;
 	box-shadow: 0 0 10px #000;
 }
 #user-store .badges .cell:hover {
 	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
 }
 .user-content .badges .cell.selected {
-	background: url(https://cdn.plug.dj/_/static/images/badgebg.11c3e716ad95c5345d292b113a4d223bb2b70e80.png) !important;
+	background: url(http://i.imgur.com/j7fnxpL.gif) !important;
 	box-shadow: inset 0 0 20px 2px hsla(0,0%,100%,0.2) !important;
 }
 .grid .cell .top .expires, .grid .cell .top .prices, #user-inventory .item, #the-user-profile .badge-box, #media-panel  {
