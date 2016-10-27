@@ -296,7 +296,7 @@
 	url(http://i.imgur.com/j7fnxpL.gif);
 }
 .user-content .badges .cell {
-	background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)), url(http://i.imgur.com/j7fnxpL.gif);
+	background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)), url(http://i.imgur.com/j7fnxpL.gif) !important;
 	box-shadow: inset 0 0 30px #000;
 }
 .user-content .badges .cell:hover {
