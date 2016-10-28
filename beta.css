@@ -914,6 +914,11 @@
 }
 /*--[Miscellanous]--*/
 
+#p3-dj-booth {
+        left: 20px;
+        top: 90px;
+
+}
 #waitlist .list .user {
         background: transparent;
 
