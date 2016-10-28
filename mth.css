@@ -914,6 +914,14 @@
 }
 /*--[Miscellanous]--*/
 
+.room-background {
+      display: none;
+}
+#app {
+    background: url(http://i.imgur.com/95JK85X.jpg) fixed center / cover !important;
+
+
+}
 #p3-dj-booth {
         left: 20px;
         top: 90px;
