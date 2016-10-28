@@ -190,10 +190,11 @@
         }
     },
     "images": {
-        "background": "http://i.imgur.com/CD2AkVr.jpg",
-         "booth": "",
+        "background": "http://i.imgur.com/95JK85X.jpg",
+         "booth": "http://i.imgur.com/mHMGr1n.png",
         "icons": {
-            "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
+            
+             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
              "cohost": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
              "host": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png",
              "manager": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png",
