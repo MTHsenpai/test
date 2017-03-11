@@ -1,5 +1,5 @@
 
- bot.commands.fire = {
+ bot.commands.fireCommand = {
 
        command: 'fire',
           rank: 'user',
