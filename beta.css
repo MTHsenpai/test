@@ -975,6 +975,7 @@
 #app-menu .list .item:hover {
 	box-shadow: inset 0 0 7px 0px hsla(0,0%,100%,0.5);
 	background: linear-gradient(to right, hsl(210,100%,20%), hsl(200,100%,20%));
+
 }
 #app-menu .list .logout {
 	background: hsl(220,10%,15%);
@@ -1025,5 +1026,28 @@
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 15px auto
-}
+},
+
+
+fireCommand: {
+   command: 'fire',
+     rank: 'user',
+     typ: 'exact',
+  functionality: function (chat, cmd) {
+      if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+      if (!bot.commands.executable(this.rank, chat)) return void (0);
+   
+    else {
+
+       API.sendChat("http://i.imgur.com/xPXQWp7.gif"));
+
+	    
+    }
+	 
+  }
+  
+};
+
+
+
 
