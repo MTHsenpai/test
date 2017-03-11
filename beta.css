@@ -1,23 +1,23 @@
 
-}
- 
-bot.commands.fireCommand = {
-    command: 'fire',
-       rank: 'user',
-       type: 'exact',
+ bot.commands.fire = {
+
+       command: 'fire',
+          rank: 'user',
+         type: 'exact',
     functionality: function (chat, cmd) {
-      if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-      if (!bot.commands.executable(this.rank, chat)) return void (0);
+      if: (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+      if: (!bot.commands.executable(this.rank, chat)) return void (0);
    else {
-     API.sendChat("http://i.imgur.com/xPXQWp7.gif");
+     API.sendChat ("http://i.imgur.com/xPXQWp7.gif");
 
 	    }
 	 }
 };
 
+\\ Load the chatpackage again to account for any changes
+bot.loadChat();
 
-
-
+}
 
 
 
@@ -25,12 +25,6 @@ bot.commands.fireCommand = {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
 
-
-
-
-
-
-          
 }
 #search-menu .menu ul  i, #search-menu-icon {
 	/*Adblock fix*/
