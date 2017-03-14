@@ -1,5 +1,9 @@
 
 }
+
+body {background-image: url(http://i.imgur.com/7Oo8wH0.gif);}
+
+}
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
