@@ -1,25 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-img {
-    width:100%;
-}
-</style>
-</head>
-<body>
-
-<p>It is better to use the style attribute to set the width and height of an image
-(instead of using the width and height attributes), because it prevents 
-internal or external styles sheets to change the original size of an image:</p>
-
-<p>Using the style attribute:</p>
-<img src="http://i.imgur.com/7Oo8wH0.gif" alt="HTML5 Icon" style="width:400px;height:114px;">
-
-
-</body>
-</html>
 
 }
 #room-settings a:hover, #chat a:hover {
