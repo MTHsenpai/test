@@ -873,7 +873,7 @@
 #chat .cm.mention .msg .from .un {
 	color: hsl(77,100%,40%);
 }
-#chat .cm.mention .msg {
+.#chat .cm.mention .msg {
 	/*fix RCS*/
 	background: none !important;
 }
@@ -920,7 +920,7 @@
       display: none;
 }
 #app {
-    background: url(http://imgur.com/GZxgVSH) fixed center / cover !important;
+    background: url(http://imgur.com/GZxgVSH.mp4) fixed center / cover !important;
 
 
 }
