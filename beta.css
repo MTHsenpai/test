@@ -1,20 +1,6 @@
 
 
 	
-}
-
-bot.commands.basicCommand = {
-    command 'fire',
-     rank: 'user',
-     typ: 'exact',
-functionality: function (chat, cmd) {
-  if (!bot.commands.executable(this.rank, chat)) return void (0);
- else {
- API.sendchat("http://i.imgur.com/9aeBbkt.gif");
-	}
-	}
-};
-
 
 }
 #room-settings a:hover, #chat a:hover {
