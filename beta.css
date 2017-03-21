@@ -988,7 +988,7 @@
 	border: 1px solid #F55;
 }
  .dialog {
-	border-radius: 20px;
+ 	border-radius: 20px;
 	background: hsla(210,10%,20%,0.5);
 }
 .dialog .dialog-body {
@@ -998,7 +998,7 @@
 	background: linear-gradient(hsla(15,80%,50%,0.5), hsla(15,80%,30%,0.5)) !important;
 }
 .dialog .submit {
-	background: linear-gradient(hsla(210,100%,50%,0.5), hsla(210,100%,30%,0.5)) !important;
+ 	background: linear-gradient(hsla(210,100%,50%,0.5), hsla(210,100%,30%,0.5)) !important;
 }
 #dialog-level-up {
 	background: linear-gradient(hsl(210,10%,20%), hsl(210,10%,10%));
@@ -1043,6 +1043,26 @@
 }
 
 
+  <html>
+<head>
+<style>
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
 
+</style>
+</head>
+<body>
+
+<h2>Thumbnail Images</h2>
+<p>Use the border property to create thumbnail images:</p>
+
+<img src="http://i.imgur.com/9aeBbkt.gif" alt="Paris" style="width:150px">
+
+</body>
+</html>
 
 
