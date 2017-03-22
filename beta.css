@@ -893,6 +893,7 @@
 	color: hsl(210,100%,60%) !important;
 }
 #chat .cm.emote i {
+
 	display: inline !important;
 }
 #chat .cm.emote .text {
@@ -921,9 +922,16 @@
 
 .room-background {
       display: none;
+
+}
+
+element.style {
+    background-image: url(https://api.plugcubed.net/proxy/http://i.imgur.com/mHMGr1n.png);
+
 }
 #app {
     background: url(http://i.imgur.com/E9n55X8.jpg) fixed center / cover !important;
+
 
 
 }
