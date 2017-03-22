@@ -1030,39 +1030,8 @@
     background-size: 15px auto
 }
 
-#lamp {
-    width: 199px;
-    height: 54px;
-
-    background-image: url('http://i.imgur.com/9aeBbkt.gif');
-    background-repeat: no-repeat;
-	
-    position: absolute;
-    top: 100px;
-    left: 100px;
 }
 
 
-  <html>
-<head>
-<style>
-img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-}
-
-</style>
-</head>
-<body>
-
-<h2>Thumbnail Images</h2>
-<p>Use the border property to create thumbnail images:</p>
-
-<img src="http://i.imgur.com/9aeBbkt.gif" alt="Paris" style="width:150px">
-
-</body>
-</html>
 
 
