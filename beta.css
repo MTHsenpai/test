@@ -880,7 +880,7 @@
 	/*fix RCS*/
 	background: none !important;
 }
-/*--[BOT]--*/
+ /*--[BOT]--*/
 #chat .cm.emote {
 	background: linear-gradient(hsla(219,100%,10%,0.3), hsla(219,100%,10%,0.3)),
 	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3)) !important;
@@ -923,7 +923,7 @@
       display: none;
 }
 #app {
-    background: url(http://i.imgur.com/ITXum3E.jpg) fixed center / cover !important;
+    background: url(http://i.imgur.com/vBW4nYo.jpg) fixed center / cover !important;
 
 
 }
