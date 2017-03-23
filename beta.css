@@ -917,13 +917,11 @@
 
 .room-background {
       display: none;
-
 }
 
-
-
 #app {
-    background: url(http://i.imgur.com/yCGRusZ.jpg) fixed center / cover !important;
+    
+  background: url(http://i.imgur.com/yCGRusZ.jpg) fixed center / cover !important;
 
 
 
