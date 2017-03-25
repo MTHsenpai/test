@@ -1,3 +1,21 @@
+#audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
+        position: absolute;
+           left: -11px;
+
+
+
+}
+#audience, #audience-canvas, #dj-canvas {
+             top: -14px;
+
+}
+#dj-booth, #dj-canvas {
+         height: 301px;
+
+
+
+
+}
 #avatars-container {
         left: 0px;
         top: 269px;
