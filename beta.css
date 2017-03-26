@@ -366,6 +366,7 @@
         
 }
 /*--[dj-button]--*/
+
 #dj-button {
 	border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
@@ -391,6 +392,7 @@
         box-shadow: 0 0 0px #000;
 	border-radius: 40px;
 	width: 255px !important;
+        top: 620px;
 }
 #app #vote .bottom {
 	background: rgba(0,0,0,0);
