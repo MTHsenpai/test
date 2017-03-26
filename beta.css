@@ -393,7 +393,7 @@
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-	left: 50.5;
+	left: 80px;
 }
 #vote .selected,
 #vote .selected .value {
