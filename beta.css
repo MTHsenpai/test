@@ -400,8 +400,8 @@
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-	left: -180px;
-        height: 40px;
+	left: 180px;
+        top: 40px;
 }
 #vote .selected,
 #vote .selected .value {
