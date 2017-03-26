@@ -366,7 +366,7 @@
 	border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4; 
-        left: -110.5px;
+        left: -180.5px;
         top: 512px;
 
 }
@@ -393,7 +393,7 @@
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-	left: -50.5;
+	left: 50.5;
 }
 #vote .selected,
 #vote .selected .value {
