@@ -1,35 +1,5 @@
 
 
-      
-
-
-
-#audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
-        position: absolute;
-           left: -11px;
-
-
-
-}
-#audience, #audience-canvas, #dj-canvas {
-             top: -14px;
-
-}
-#dj-booth, #dj-canvas {
-         height: 301px;
-
-
-
-
-}
-#avatars-container {
-        left: 0px;
-        top: 269px;
-
-
-
-
-}
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
@@ -395,7 +365,10 @@
 #dj-button {
 	border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
-	box-shadow: 0 0 2px #a4a4a4;
+	box-shadow: 0 0 2px #a4a4a4; 
+        left: -110.5px;
+        top: 512px;
+
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
