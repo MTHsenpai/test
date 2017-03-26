@@ -1,8 +1,7 @@
 
-#audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
+#audience, #audience-canvas, #avatars-container, #dj-canvas {
 
-    position: absolute;
-     left: 6px;
+    top: -51px;
 
 }
 #room-settings a:hover, #chat a:hover {
