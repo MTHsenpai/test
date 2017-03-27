@@ -1,6 +1,8 @@
+ #vote, .element.style {
+     left: 366px; !important;
+      top: 622px: !important;
 
-
-
+}
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
     top: -57px;
