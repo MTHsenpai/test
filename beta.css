@@ -1,4 +1,15 @@
 
+<style>
+
+  #dj-button.is-wait, .element.style {
+    top: 619px;
+    left: -74.5px;
+}
+</style>
+
+
+
+
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
     top: -57px;
