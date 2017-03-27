@@ -332,8 +332,7 @@
 	background: transparent !important;
 }
 .grid .cell .top .expires span {
-	color: hsl(30,100%,50%) !important;
-}
+	color: hsl(30,100%,50%) !important;}
 #the-user-profile .meta {
 	background: hsla(200,100%,90%,0.05) !important;
 	box-shadow: 0 0 0px 15px hsla(200,100%,90%,0.05);
@@ -383,8 +382,8 @@
 	border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4; 
-        left: -180.5px; 
-        top: 512px;
+        left: -180.5px; !important;
+        top: 512px; !important;
 
 }
 #dj-button:hover {
