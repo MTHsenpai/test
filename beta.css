@@ -373,28 +373,24 @@
 	border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4; 
-        left: -180.5px; !important;
-        top: 512px; !important;
+        
 
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
-        left: -180.5px; 
-        top: 512px;
+       
 
 }
 #dj-button .left {
 	border-radius: 50px 50px 50px 50px;
 	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
 	box-shadow: 0 0 2px #a4a4a4;
-        left: -180.5px; 
-        top: 512px;
+       
 
 }
 #dj-button:hover .left {
-	background: linear-gradient(135deg, hsla(190,100%,60%,0.9), hsla(205,100%,50%,0.9)) !important;
-        left: -180.5px;
-        top: 512px;
+	background: linear-gradient(135deg, hsla(190,100%,60%,0.9), hsla(205,100%,50%,0.6)) !important;
+     
 
 }
 /*--[vote]--*/
@@ -403,15 +399,13 @@
         box-shadow: 0 0 0px #000;
 	border-radius: 40px;
 	width: 255px !important;
-        top: 620px;
 }
 #app #vote .bottom {
 	background: rgba(0,0,0,0);
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-	left: 180px;
-        top: 40px;
+	
 }
 #vote .selected,
 #vote .selected .value {
@@ -615,7 +609,7 @@
 }
 /*########## [chat] ##########*/
 .app-right {
-	background: rgba(0,0,0,0) !important;
+	background: rgba(0,0,0,1) !important;
 }
 .app-right .friends {
         background: rgba(0,0,0,0.2);        
