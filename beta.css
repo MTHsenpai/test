@@ -1,9 +1,9 @@
 
 
 
-  #dj-button.is-wait, .element.style {
-    top: 619px;
-    left: -74.5px;
+  #dj-button.is-wait {
+    top: 619px; !important;
+    left: -74.5px; !important;
 }
 
 
