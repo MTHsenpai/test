@@ -32,8 +32,7 @@
 #tooltip.orange span {
 	background: radial-gradient(hsla(20,100%,50%,0.9), hsla(10,100%,40%,0.9));
 }
-#tooltip.orange .corner {
-	border-top: 10px solid transparent !important;
+#tooltip.orange .corner {	border-top: 10px solid transparent !important;
 	border-right: 0px solid transparent !important;
 	border-left: 10px solid hsla(10,100%,45%,0.9) !important;
 	border-bottom: 10px solid transparent !important;
@@ -72,6 +71,7 @@
 	box-shadow: none;
 	border-color: hsl(210,100%,40%) !important;
 	border-radius: 0 0 4px 4px;
+
 }
 #no-dj {
         background: transparent;
@@ -378,14 +378,23 @@
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
+        left: -180.5px; 
+        top: 512px;
+
 }
 #dj-button .left {
 	border-radius: 50px 50px 50px 50px;
 	background: linear-gradient(135deg, hsla(190,100%,10%,0.2), hsla(205,100%,10%,0.2)) !important;
 	box-shadow: 0 0 2px #a4a4a4;
+        left: -180.5px; 
+        top: 512px;
+
 }
 #dj-button:hover .left {
 	background: linear-gradient(135deg, hsla(190,100%,60%,0.9), hsla(205,100%,50%,0.9)) !important;
+        left: -180.5px;
+        top: 512px;
+
 }
 /*--[vote]--*/
 #vote {
