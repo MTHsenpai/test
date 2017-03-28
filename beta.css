@@ -1,6 +1,6 @@
  #dj-button, #dj-button.is-wait {
-             top: 520px; !important;
-
+             top: 520px !important;
+             left: -27px !important; 
 }
  #vote, .element.style {
      left: 366px; !important;
