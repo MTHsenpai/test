@@ -1,11 +1,10 @@
- #dj-button, #dj-button.is-wait {
-             top: 520px !important;
-             left: -27px !important; 
-}
- #vote, .element.style {
-     left: 366px; !important;
-      top: 622px; !important;
+ 
 
+
+
+#dj-button, #dj-button.is-wait {
+             top: 515px !important;
+             left: 155px !important; 
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
