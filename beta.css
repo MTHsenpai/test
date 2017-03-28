@@ -3,8 +3,8 @@
 
 
 #dj-button, #dj-button.is-wait {
-             top: 515px !important;
-             left: 155px !important; 
+             top: 515px;
+             left: 155px; 
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
