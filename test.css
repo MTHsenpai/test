@@ -1,3 +1,7 @@
+.community .community__playlist--desktop, .community .community__playlist--mobile {
+    background-color: inherit;
+}
+
 #header-panel-bar.right-meta #chat-button.selected, #header-panel-bar.right-meta #friends-button.selected, #header-panel-bar.right-meta #users-button.selected, #header-panel-bar.right-meta #waitlist-button.selected {
     border-bottom: none;
     color: #0BA0FD;
