@@ -1,3 +1,8 @@
+#header-panel-bar.right-meta #chat-button.selected, #header-panel-bar.right-meta #friends-button.selected, #header-panel-bar.right-meta #users-button.selected, #header-panel-bar.right-meta #waitlist-button.selected {
+    border-bottom: none;
+    color: #0BA0FD;
+}
+
 .community .room-controls--desktop {
     border-radius: 20px;
     border-style: hidden;
