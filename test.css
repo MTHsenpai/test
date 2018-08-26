@@ -1,11 +1,6 @@
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    color: #000FD6;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.community .room-controls--desktop {
+    border-radius: 20px;
+    border-style: hidden;
 }
 
 .community__song-playing {
